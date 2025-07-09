@@ -1,0 +1,89 @@
+# Prepify 📚🤖  
+*Transforming Exam Preparation with AI*
+
+Prepify is your personalized **AI Study Buddy**, designed by students for students. It simplifies the way you revise and prepare for exams by using intelligent tools like **flashcards**, **AI-predicted questions**, and an instant **doubt solver**. Whether you're cramming the night before or planning a structured revision, Prepify helps you study smarter, not harder.
+
+---
+
+## 🔍 Problem Statement
+
+Exam preparation is often stressful and inefficient due to the overwhelming amount of material, last-minute cramming, and lack of personalized resources. Prepify addresses these challenges by providing AI-powered tools to optimize learning and revision.
+
+---
+
+## 🚀 Features
+
+### 🧠 One Day Marathon (AI-Powered Predictions)
+- **Top 25 Questions** – Identifies the most frequently asked exam questions.
+- **Top 10 Topics** – Highlights the most important subject areas to focus on.
+- **Auto-Generated Answers** – AI provides detailed, well-structured solutions.
+- **Smart Caching** – Improves performance for unchanged documents.
+
+### 📇 Flashcards (Efficient Revision)
+- **Topic Input** – Type a topic and instantly get flashcards.
+- **AI Generation** – Automatically generates key Q&A pairs.
+- **Interactive Design** – Click to flip the card and reveal the answer.
+- **Dynamic Expansion** – Generate more cards as needed.
+
+### 💬 DoubtBox (Instant Doubt Clarification)
+- **Smart Filtering** – Only subject-relevant doubts are answered.
+- **Database Search** – Pulls from textbooks and previous exam content.
+- **Contextual AI** – Delivers the most relevant and accurate explanations.
+
+---
+
+## 👤 Use Cases
+
+- **Quick Revision** before exams using AI-generated flashcards.
+- **Last-minute prep** with predicted high-priority topics and questions.
+- **Instant doubt solving** during self-study sessions.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** HTML/CSS, JavaScript
+- **Backend:** Python (Flask/FastAPI)
+- **AI Services:** OpenAI/Gemini (for generation and contextual understanding)
+- **Database:** MongoDB / Firestore
+- **Deployment:** Vercel / Heroku / Render (as applicable)
+
+---
+
+## 📈 Learnings & Challenges
+
+### 🚧 Challenges Faced
+- API limits and expired free-tier credits.
+- UI design hurdles that were resolved with mentorship.
+
+### 💡 What We Learned
+- Applied **First Principles Thinking** to build feature logic.
+- Designed user personas, stories, and created wireframes.
+- Understood the importance of UI/UX in education-focused apps.
+
+---
+
+## 🎯 Future Roadmap
+
+- Voice-based doubt solving.
+- Personalized revision planner based on student behavior.
+- Gamified learning experience.
+
+---
+
+## 🧑‍💻 Authors & Team
+
+**Team Name:** Random Rookies  
+Created as part of an Internship Hackathon – *Winners 🏆*
+
+---
+
+## 🙌 Thank You!
+
+Prepify is a project *by students, for students*, aiming to bring peace of mind during stressful exam periods. Your feedback and contributions are welcome!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
